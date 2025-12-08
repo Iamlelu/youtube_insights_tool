@@ -55,6 +55,3 @@ pandas
 
 streamlit
 
-✔ A version with emojis removed
-
-Just tell me!
