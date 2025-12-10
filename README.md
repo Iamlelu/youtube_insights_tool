@@ -24,7 +24,6 @@ How to Use the Project
 3. Get Youtube data api key from google cloud console.
 4. Create a .env file inside the project folder and place the api.
 
-
 file not included in the download, and you must create it yourself.
 
 Inside .env, write:
@@ -41,10 +40,10 @@ google-api-python-client
 python-dotenv
 pandas
 
+
+
 streamlit
 
-
-![intro](Screenshot (740).png)
-
-![end](Screenshot (741).png)
+<img width="1169" height="639" alt="Intro" src="https://github.com/user-attachments/assets/ddc4cc9f-af82-427d-af7f-080a1df13f9b" />
+<img width="1172" height="531" alt="graph" src="https://github.com/user-attachments/assets/a67a59c0-c0c9-4acd-958b-79d2e3d06330" />
 
