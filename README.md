@@ -1,6 +1,6 @@
 # youtube_insights_tool
 
-##This is a simple project that allows you to search YouTube videos and view useful insights such as:
+## This is a simple project that allows you to search YouTube videos and view useful insights such as:
 
 Video titles
 Channel names
