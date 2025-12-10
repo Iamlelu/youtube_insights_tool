@@ -2,20 +2,20 @@
 
 ## This is a simple project that allows you to search YouTube videos and view useful insights such as:
 
-Video titles
-Channel names
-Published dates
-Views
-Likes
-Comments
+Video titles,
+Channel names,
+Published dates,
+Views,
+Likes,
+Comments.
 
 The project uses the YouTube Data API v3 and a Streamlit interface to display results.
 Features
 
-Search for any keyword on YouTube
-Shows a table with video details
-Automatically generates a bar chart of views
-Streamlit interface
+Search for any keyword on YouTube,
+Shows a table with video details,
+Automatically generates a bar chart of views,
+Streamlit interface,.
 
 
 How to Use the Project
